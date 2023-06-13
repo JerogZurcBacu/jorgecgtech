@@ -2,7 +2,7 @@
   "name": "jorgecg_2023",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jerogzurcbacu.github.io/jorgecg-2023",
+  "homepage": "http://jerogzurcbacu.github.io/jorgecgtech",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
