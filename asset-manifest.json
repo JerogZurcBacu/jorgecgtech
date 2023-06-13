@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/jorgecgtech/static/css/main.5291e9e6.css",
+    "main.js": "/jorgecgtech/static/js/main.5077bc58.js",
+    "static/js/787.1d5f33bf.chunk.js": "/jorgecgtech/static/js/787.1d5f33bf.chunk.js",
+    "static/media/papeles.png": "/jorgecgtech/static/media/papeles.8593a234867cd204c77b.png",
+    "static/media/cara.png": "/jorgecgtech/static/media/cara.6a32eef71a66f82380b2.png",
+    "static/media/Maqueta_White1.png": "/jorgecgtech/static/media/Maqueta_White1.cbb6b999f96f89f5f100.png",
+    "static/media/gadark.png": "/jorgecgtech/static/media/gadark.d9a1e19add5bd32155d9.png",
+    "static/media/siliclab.png": "/jorgecgtech/static/media/siliclab.ce99d649e99e5cbaa7ed.png",
+    "static/media/cgdes.png": "/jorgecgtech/static/media/cgdes.c79a4aee8d7beee50304.png",
+    "static/media/cgdes_b.png": "/jorgecgtech/static/media/cgdes_b.5eff9e8d2b892557f6b9.png",
+    "static/media/serv_img_3.png": "/jorgecgtech/static/media/serv_img_3.9684c36740eb864ddddb.png",
+    "static/media/serv_img_4.png": "/jorgecgtech/static/media/serv_img_4.ad189f6b2c154684f140.png",
+    "static/media/serv_img_1.png": "/jorgecgtech/static/media/serv_img_1.bd1f3140697079a45424.png",
+    "static/media/itgas.png": "/jorgecgtech/static/media/itgas.6b73596d441931983c23.png",
+    "static/media/serv_img_2.png": "/jorgecgtech/static/media/serv_img_2.a08a659f9d30cfcbb078.png",
+    "static/media/sendengo.png": "/jorgecgtech/static/media/sendengo.07e284827c523948c84e.png",
+    "static/media/aguanat.png": "/jorgecgtech/static/media/aguanat.2acd1cdf4cf8ac3c7b7f.png",
+    "static/media/proximamente_w.png": "/jorgecgtech/static/media/proximamente_w.86ae951aa99533870ee0.png",
+    "static/media/proximamente_b.png": "/jorgecgtech/static/media/proximamente_b.ee5cb090bda6fed9f1e7.png",
+    "index.html": "/jorgecgtech/index.html",
+    "main.5291e9e6.css.map": "/jorgecgtech/static/css/main.5291e9e6.css.map",
+    "main.5077bc58.js.map": "/jorgecgtech/static/js/main.5077bc58.js.map",
+    "787.1d5f33bf.chunk.js.map": "/jorgecgtech/static/js/787.1d5f33bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5291e9e6.css",
+    "static/js/main.5077bc58.js"
+  ]
+}
